@@ -1,5 +1,5 @@
 #include <unistd.h>
-/* main - prints exactly and that piece of art is useful"QUOTE", followed by a new line, to the standard error.
+/* main - 101-quote.c
  *
  * Return: Always returns 1
  */

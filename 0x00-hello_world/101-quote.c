@@ -1,5 +1,9 @@
 #include <unistd.h>
-/* This program prints a message to the standard error. */
+/**
+ * main - This program prints a message to the standard error.
+ *
+ * Return: Always 0 (Success)
+ */
 int main(void)
 {
 char str[] = "and that piece of art is useful\" - Dora Korpar, 2015-10-19\n";
